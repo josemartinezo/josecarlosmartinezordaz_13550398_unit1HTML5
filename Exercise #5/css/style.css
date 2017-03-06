@@ -1,0 +1,32 @@
+header{
+	text-align: center;
+}
+nav{
+	font-family: arial;
+}
+article {
+	border-left: solid 5px #C0C0C0;
+    width: 625px;
+    margin-left: 200px;
+    margin-right: 25px;
+    font-family: sans-serif;
+}
+article, aside {
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+aside{
+    position: relative;
+	width: 235px;
+	background-color: #706b64;
+	box-shadow: 0px 2px 5px #1c1a19;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	font-size: 0.9em;
+	font-family: serif;
+}
+footer{
+	text-align: center;
+}

@@ -1,0 +1,46 @@
+body{
+		background-color: #e0e0e0;
+}
+
+h1,h2{
+    text-align: center;
+    font-family: arial;
+}
+        
+section{
+    display: inline-block;
+    width: 55%;
+    height: 650px;
+    background-color: blue;
+}
+        
+nav{
+    float: right;
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+    height: 650px;
+    background-color: lightblue;
+}
+        
+nav  li{
+    padding-top: 67px;
+    padding-bottom: 80px;
+    cursor: pointer;
+}
+
+article h3{
+    margin-top: 50px;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 22px;
+    width: 200px;
+    margin-left: 28%;
+    color: black;
+    font-style: sans-serif;
+}
+
+article h3{
+    display: inline-block;
+}
+

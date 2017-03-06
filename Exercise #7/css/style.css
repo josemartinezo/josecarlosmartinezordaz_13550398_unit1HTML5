@@ -1,0 +1,26 @@
+body{
+		background-color: #e0e0e0;
+}
+h1,h2,h3{
+    text-align: center;
+}
+        
+section{
+    display: inline-block;
+    width: 57%;
+    height: 1350px;
+	margin-left: 300px;
+    background-color: blue;
+}
+        
+article h3{
+    margin-top: 50px;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 22px;
+    width: 200px;
+    margin-left: 28%;
+    color: black;
+}
+
+

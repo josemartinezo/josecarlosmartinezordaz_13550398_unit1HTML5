@@ -1,0 +1,28 @@
+header{
+	text-align: center;
+}
+nav{
+	text-align: center;
+}
+article {
+	border-right: solid 5px #C0C0C0;
+    width: 200px;
+    margin-left: 430px;
+    margin-right: 25px;
+    font-family: sans-serif;
+}
+article, aside {
+    display: inline-block;
+    vertical-align: top;
+
+}
+aside{
+    position: relative;
+	width: 235px;
+	padding: 10px;
+	font-size: 0.9em;
+	
+}
+footer{
+	text-align: center;
+}
